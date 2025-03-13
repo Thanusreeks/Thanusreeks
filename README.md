@@ -6,7 +6,7 @@
 - 🧠 Passionate about **Machine Learning, NLP, Deep Learning and AI**  
 - 💻 Skilled in **Python, Data Science, Power BI, Web Development**  
 - 🔍 Interested in **AI, Data Analytics, and Business Intelligence**  
-- 📩 Reach me at: [thanusreeksaji@gmail.com] 
+- 📩 Reach me at: thanusreeksaji@gmail.com
 
 ---
 
@@ -18,6 +18,6 @@
 ---
 
 ### 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ThanusreeKS-blue?style=flat&logo=linkedin)](https://github.com/Thanusreeks) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ThanusreeKS-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thanusree-ks) 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/thanusreeks1)
 
